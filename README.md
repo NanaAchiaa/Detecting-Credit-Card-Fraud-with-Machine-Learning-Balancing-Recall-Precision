@@ -1,14 +1,11 @@
 # Detecting Credit Card Fraud 
-This project builds and evaluates machine learning models for detecting fraudulent credit card transactions.  We explore the dataset, handle class imbalance, train multiple models, and choose the best based on precision-recall balance.
-
-Credit Card Fraud Detection
-
 Machine learning project for detecting fraudulent credit card transactions. Includes EDA, class imbalance handling (SMOTE), model comparison (Logistic Regression, Random Forest, Gradient Boosting, XGBoost, LightGBM), hyperparameter tuning, evaluation with ROC/PR curves, and SHAP interpretability.
 
-📖 Medium article walkthrough: (https://medium.com/@nana.achiaaoforikuragu/detecting-credit-card-fraud-with-machine-learning-balancing-recall-precision-8d37cd5fc933)
+# Medium article walkthrough 
+# Link: https://medium.com/@nana.achiaaoforikuragu/detecting-credit-card-fraud-with-machine-learning-balancing-recall-precision-8d37cd5fc933
 
-📂 Repository Structure
-credit-card-fraud-detection/
+# Repository Structure
+# credit-card-fraud-detection/
 ├── data/                  # dataset (not included, see instructions)
 ├── notebooks/             # Jupyter notebooks (EDA, modeling, tuning)
 ├── results/               # exported plots, metrics, shap explanations
