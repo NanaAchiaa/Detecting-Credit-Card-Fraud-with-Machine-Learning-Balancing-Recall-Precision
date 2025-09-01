@@ -22,4 +22,4 @@ Target: Class (0 = Non-Fraud, 1 = Fraud)
 | LightGBM              | 0.375     | 0.612  | 0.465    | 0.731   |
 
 
-# Chosen Model: Tuned XGBoost – best trade-off between recall and precision.
+## Chosen Model: Tuned XGBoost – best trade-off between recall and precision.
